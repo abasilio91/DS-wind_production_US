@@ -13,6 +13,8 @@ Exploring the data revealed some inconsistences such as numeric values as string
 
 Now, with a more workable dataframe, let's search for some answers:
 
+- [ ] How many states produce wind power?
+- [ ] The ratio producers/total and producers/non-producers
 - [ ] What's the average wind-power production over US?
 - [ ] What's the average wind-power production over US per state?
 - [ ] Which state produces the most?
