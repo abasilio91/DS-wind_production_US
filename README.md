@@ -9,7 +9,7 @@ Disclaimer: please, bear in mind that I am not american, nor I live in the US. S
 
 Exploring the data revealed some inconsistences such as numeric values as strings, missing values and features mixing strings and numbers. Regular expressions were used to identify the odd values and treat them appropriately. (with a little help from https://regexr.com/ and chatGPT)
  
-## Second step - Statistical analysis
+## Second step: Statistical analysis
 
 Now, with a more workable dataframe, let's search for some answers:
 
