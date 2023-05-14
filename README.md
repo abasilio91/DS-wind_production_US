@@ -1,7 +1,7 @@
 updated at: 2023-05-14 (commit: cleaning data and setting the goals)
 # A Statistical study over the wind power prodution in US from 2001-2023
 
-This notebook aims to perform some basic analysis over the data provided in [this Kaggle dataset](https://www.kaggle.com/datasets/henriupton/wind-power-production-us-2001-2023). Information about it says the information comes from official entities of the administration.
+This notebook aims to perform some basic analysis over the data provided in [this Kaggle dataset](https://www.kaggle.com/datasets/henriupton/wind-power-production-us-2001-2023). Information about it says the information comes from official entities of the administration. Unfortunately, the dataset is also not clear about the unit of the quantities, so I'll assume kWh for good measure.
 
 Disclaimer: please, bear in mind that I am not american, nor I live in the US. So the analysis here is based solely on the information from the dataset itself. 
 
@@ -11,16 +11,23 @@ Exploring the data revealed some inconsistences such as numeric values as string
  
 ## Second step: Statistical analysis
 
-Now, with a more workable dataframe, let's search for some answers:
+Great. Now that we have a more workable dataframe, let's search for some answers. The follwing questions popped up in my mind while writing this code. Hopefully, you can make different ones.
 
-- [ ] How many states produce wind power?
-- [ ] The ratio producers/total and producers/non-producers
-- [ ] What's the average wind-power production over US?
-- [ ] What's the average wind-power production over US per state?
-- [ ] Which state produces the most?
-- [ ] Which state produces the least (considering that it produces at all)?
-- [ ] How much wind-power is produced compared to other sources?
+### Historical questions:
+- [X] How many states produce wind power today?
+- [X] How many states produce wind power in a specific moment in history?
 - [ ] What was the first state to start producing?
 - [ ] What was the last state to start producing?
+
+### Overall production:
+- [ ] The ratio of producers/total
+- [ ] The ratio of producers/non-producers
+- [ ] What's the average wind-power production over US?
+- [ ] What's the average wind-power production over US per state?
+- [X] Which state produces the most?
+- [ ] Which state produces the least (considering that it produces at all)?
+- [ ] How much wind-power is produced compared to other sources?
+
+### Annual production:
 - [ ] Which time of the year has the pick production overall? and by state?
 - [ ] Which time of the year has the lowest production overall? and by state?
