@@ -1,4 +1,7 @@
-updated at: 2023-05-14 (commit: cleaning data and setting the goals)
+- updated at: 2023-05-22 (commit: reorganized the dataframes)
+- updated at: 2023-05-14 (commit: cleaning data and setting the goals)
+
+
 # A Statistical study over the wind power prodution in US from 2001-2023
 
 This notebook aims to perform some basic analysis over the data provided in [this Kaggle dataset](https://www.kaggle.com/datasets/henriupton/wind-power-production-us-2001-2023). Information about it says the information comes from official entities of the administration. Unfortunately, the dataset is also not clear about the unit of the quantities, so I'll assume kWh for good measure.
