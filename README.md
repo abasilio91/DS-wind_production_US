@@ -1,4 +1,7 @@
 - updated at: 2023-05-22 (commit: reorganized the dataframes)
+
+Rethought how to present the data and changed the dataframe to melt all the status in one column.
+
 - updated at: 2023-05-14 (commit: cleaning data and setting the goals)
 
 
