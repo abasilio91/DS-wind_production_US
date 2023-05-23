@@ -1,9 +1,8 @@
-- updated at: 2023-05-22 (commit: reorganized the dataframes)
+- updated at: 20023-05-23 (commit: answering all the historical questions)
 
-Rethought how to present the data and changed the dataframe to melt all the status in one column.
+New historical questions added and answered.
 
 - updated at: 2023-05-14 (commit: cleaning data and setting the goals)
-
 
 # A Statistical study over the wind power prodution in US from 2001-2023
 
@@ -22,8 +21,9 @@ Great. Now that we have a more workable dataframe, let's search for some answers
 ### Historical questions:
 - [X] How many states produce wind power today?
 - [X] How many states produce wind power in a specific moment in history?
-- [ ] What was the first state to start producing?
-- [ ] What was the last state to start producing?
+- [X] What was the first state to start producing?
+- [X] What was the last state to start producing?
+- [X] Who has been producing the longest?
 
 ### Overall production:
 - [ ] The ratio of producers/total
