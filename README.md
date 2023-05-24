@@ -1,6 +1,8 @@
+- updated at: 2023-05-24 (commit: annual production analysis)
 
+Peformed a simple analysis on the production over the years in the US as a whole. The analysis can be easily extended to be statewise.
 
-- updated at: 20023-05-23 (commit: answering all the historical questions)
+- updated at: 2023-05-23 (commit: answering all the historical questions)
 
 New historical questions added and answered. Geographical information added to map the wind power production statewise.
 
