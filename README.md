@@ -1,6 +1,8 @@
+
+
 - updated at: 20023-05-23 (commit: answering all the historical questions)
 
-New historical questions added and answered.
+New historical questions added and answered. Geographical information added to map the wind power production statewise.
 
 - updated at: 2023-05-14 (commit: cleaning data and setting the goals)
 
@@ -35,5 +37,5 @@ Great. Now that we have a more workable dataframe, let's search for some answers
 - [ ] How much wind-power is produced compared to other sources?
 
 ### Annual production:
-- [ ] Which time of the year has the pick production overall? and by state?
-- [ ] Which time of the year has the lowest production overall? and by state?
+- [X] Which time of the year has the pick production overall?
+- [X] Which time of the year has the lowest production overall?
